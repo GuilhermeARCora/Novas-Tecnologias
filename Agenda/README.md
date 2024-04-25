@@ -1,0 +1,1 @@
+Boa tarde, pessoal. Enviei os conteúdos de Funções e Bibliotecas Padrões do Python. A atividade é aprimorar o aplicativo Agenda realizado nas aulas anteriores, deixando as ações do menu de opções como funções separadas e salvar os contatos da agenda num arquivo .csv.  Att.
